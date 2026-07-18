@@ -3,7 +3,7 @@ I'm just some dev.
 ## Rant
 
 
-I feel exhausted, stuck between two sides about LLM usage that I feel are both going too extreme - open source people and corporate world. So this is my rant, take it as you wish. BUT if you comment without reading the whole thing I'm liable to just ignore replies. Also wish we had ability to make threads here.
+I feel exhausted, stuck between two sides about LLM usage that I feel are both going too extreme - open source people and corporate world. So this is my rant, take it as you wish.
 
 I am not happy LLMs exist. The same way I'm not happy that banks, or the fractional banking system exists, or that CFDs or spread-betting exists, or that coal power plants exist. But they do. They're tools created by humans and for better or worse are here.
 

@@ -47,5 +47,23 @@ They ARE, however, still incredibly useful tools that can make development easie
 
 LLMs aren't fully ethical - but that's true of most things manufactured or run by large companies. Your best bet for pushing back on that isn't "ban it completely," - because you won't even make a dent. They're here to stay, evne if the future might involve less of them -they're not going away. The solution is activism for pushing for stronger regulations on these companies, since regardless if the open source community rejects LLMs, the corporate world isn't - and neither are random internet non-developers who use LLMs for far less productive things (image gen, video gen, clickbait videos, etc). 
 
+I'm going to quote Linus ([source](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/?x=0)):
+> AI is a tool, just like other tools we use.  And it's clearly a useful one.
+> 
+> It may not have been that "clearly" even just a year ago, but it's no
+longer in question today.
+> 
+> There are other questions around AI (like what the economy of it will
+actually look like in the end), but "is it useful" is no longer one of
+those questions. Anybody who doubts that clearly hasn't actually used
+it.
+> 
+> But the solution is not to put your head in the sand and sing "La La
+La, I can't hear you" at the top of your voice like some people seem
+to do.
+> 
+> The solution is to make sure those LLM tools _help_ maintainers
+instead of just causing them pain. There's no question on that side.
+
 # FINALLY
 If you are concerned with ethics, I honestly implore you to not to buy anything from Nestle or Amazon at least (if you happen to).
